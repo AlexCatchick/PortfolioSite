@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React and Vite, showcasing my skills, projects, and professional experience.
 ## 🌟 Live Demo
-**[Click Me](https://portfoliosite2k25-h1gw0378u-alex-catchicks-projects.vercel.app)** to view the live portfolio!
+**[Click Me](https://portfoliosite2k25.vercel.app/)** to view the live portfolio!
 
 ## 📋 About This Project
 
