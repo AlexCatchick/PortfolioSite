@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "animate.css";
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #fff;
+  color: #004030;
+}
+
+/* Optional: smooth transitions */
+a {
+  transition: color 0.2s ease-in-out;
+}
