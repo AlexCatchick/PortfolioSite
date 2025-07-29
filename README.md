@@ -6,4 +6,4 @@ A modern, responsive portfolio website built with React and Vite, showcasing my 
 
 ## 📋 About This Project
 
-This portfolio website serves as a digital showcase of my work, skills, and professional journey. Built with modern web technologies, it features:
+This portfolio website serves as a digital showcase of my work, skills, and professional journey.
