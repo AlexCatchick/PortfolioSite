@@ -162,16 +162,19 @@ export default function About() {
         {/* Stats Section */}
         <div className="mt-20 grid grid-cols-2 md:grid-cols-4 grid-system">
           {[
-            { number: '20+', label: 'Leadership' },
-            { number: '3+', label: 'Communication' },
-            { number: '10+', label: 'Teamwork' },
-            { number: '100%', label: 'Dedication' },
+            { label: 'Leadership' },
+            { label: 'Communication' },
+            { label: 'Teamwork' },
+            { label: 'Dedication' },
+            // { number: '20+', label: 'Leadership' },
+            // { number: '3+', label: 'Communication' },
+            // { number: '10+', label: 'Teamwork' },
+            // { number: '100%', label: 'Dedication' },
           ].map((stat, index) => (
             <div key={index} className="text-center content-spacing">
-              <div className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-accent-cyan to-accent-violet bg-clip-text text-transparent">
-                {stat.number}
+              <div className="h-full text-3xl md:text-4xl font-bold bg-gradient-to-r from-accent-cyan to-accent-violet bg-clip-text text-transparent">
               </div>
-              <div className="text-text-secondary text-sm">
+              <div className=" text-text-secondary text-sm">
                 {stat.label}
               </div>
             </div>
