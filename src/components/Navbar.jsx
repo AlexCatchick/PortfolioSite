@@ -37,10 +37,10 @@ export default function Navbar() {
         <div className="max-w-8xl mx-auto px-6 sm:px-8 lg:px-12">
           <div className="flex items-center justify-between h-20 w-full">
             {/* Logo / Title */}
-            <div className="w-1/5  flex-shrink-0">
-              <h1 className=" text-center text-xl md:text-2xl font-bold text-gradient tracking-widest">
+            <div className="lg:w-1/5 md:w-1/5 flex-shrink-0">
+              <h3 className="text-center lg:text-2xl md:text-2xl text-sm font-bold text-gradient tracking-widest">
                 ALEX.CATCHICK
-              </h1>
+              </h3>
             </div>
 
             {/* Desktop Navigation Links */}
