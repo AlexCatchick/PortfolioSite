@@ -14,8 +14,8 @@ const projects = [
     description:
       "Responsive ReactJS + TailwindCSS website for event registration, updates, and schedules. Achieved ~4.35K clicks and ~32.9K impressions.",
     techStack: ["ReactJS", "TailwindCSS", "JavaScript", "Responsive Design"],
-    link: "https://github.com/AlexCatchick/nh25",
-    demoLink: null,
+    link: "https://github.com/nmithacks2024/nh25",
+    demoLink: "https://nmithacks.com/",
   },
   {
     title: "Amazon E-commerce Testing",
